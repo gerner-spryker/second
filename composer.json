@@ -1,0 +1,7 @@
+{
+    "name": "gerner-spryker/second",
+    "replace": {
+        "gerner-spryker/firstrepo": "1.1.0"
+    },
+    "require": {}
+}
